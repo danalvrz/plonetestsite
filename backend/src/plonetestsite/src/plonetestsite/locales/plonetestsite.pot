@@ -1,0 +1,54 @@
+#--- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+#SOME DESCRIPTIVE TITLE.
+#FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2022-12-07 20:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: plonetestsite\n"
+
+#: plonetestsite/src/plonetestsite/vocabularies/__init__.py:11
+msgid "Education"
+msgstr ""
+
+#: plonetestsite/src/plonetestsite/vocabularies/__init__.py:9
+msgid "Government"
+msgstr ""
+
+#: plonetestsite/src/plonetestsite/profiles.zcml:22
+msgid "Initial content for our website."
+msgstr ""
+
+#: plonetestsite/src/plonetestsite/vocabularies/__init__.py:10
+msgid "NGO"
+msgstr ""
+
+#: plonetestsite/src/plonetestsite/profiles.zcml:22
+msgid "PloneTestSite: Initial content"
+msgstr ""
+
+#: plonetestsite/src/plonetestsite/profiles.zcml:13
+msgid "PloneTestSite: Install"
+msgstr ""
+
+#: plonetestsite/src/plonetestsite/profiles.zcml:30
+msgid "PloneTestSite: Uninstall"
+msgstr ""
+
+#: plonetestsite/src/plonetestsite/profiles.zcml:13
+msgid "Policy package to install our site"
+msgstr ""
+
+#: plonetestsite/src/plonetestsite/profiles.zcml:30
+msgid "Uninstall PloneTestSite setup."
+msgstr ""

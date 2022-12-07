@@ -1,0 +1,6 @@
+graft src/plonetestsite
+graft docs
+include *.rst
+include *.md
+include *.cfg
+global-exclude *.pyc
